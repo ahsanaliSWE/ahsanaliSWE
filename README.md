@@ -16,8 +16,10 @@ I’m always curious to learn something new! Whether it’s about **technology**
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif" alt="Programming GIF" width="45%" />
 </p>
 
-## Spotify ##
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+## 🎧 Spotify  
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)  
+
+<a href="https://iconscout.com/lottie-animations/spotify" class="text-underline font-size-sm" target="_blank">Spotify</a> by <a href="https://iconscout.com/contributors/priyanshu-17" class="text-underline font-size-sm" target="_blank">Priyanshu Sarmah</a>
 
 
 ## 🌐 Socials:
