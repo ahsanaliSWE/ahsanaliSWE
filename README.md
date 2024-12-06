@@ -8,14 +8,13 @@ A passionate Software Engineer 🚀 with expertise in Full-Stack Development, Mo
 ## ✍️ Fun Fact About Me  
 I’m always curious to learn something new! Whether it’s about **technology**, **AI advancements**, or simply exploring **gaming strategies**, you’ll always find me chasing my next learning adventure.
 
+### Programming Joke: ###
+"If it works, don't touch it. If it doesn’t work, don’t touch it either... just pray." 🙏
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="45%" />
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif" alt="Programming GIF" width="45%" />
 </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanaliswe&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanaliswe" /> </p>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ahsanalikhidri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a) 
@@ -36,13 +35,6 @@ Bringing **IoT** and **Renewable Energy** together to create a smarter, more sus
 <a href="https://github.com/ahsanaliSWE/home_automation"><img src="https://img.shields.io/badge/-View%20Project-181717?style=for-the-badge&logo=github"></a>
 
 ---
-
-### 🌈 Dynamic Elements  
-**🕰️ What Time Is It?**  
-Love exploring dynamic and interactive elements? Stay tuned for updates on projects showcasing real-time interaction and data visualization.
-![Dynamic Clock](https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/clock/digitalclock.html)
-
-
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanaliswe&show_icons=true&locale=en&layout=compact" alt="ahsanaliswe" /></p>
