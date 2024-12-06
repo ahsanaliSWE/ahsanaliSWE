@@ -16,6 +16,10 @@ I’m always curious to learn something new! Whether it’s about **technology**
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif" alt="Programming GIF" width="45%" />
 </p>
 
+## Spotify ##
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=<BQDw4BqkzGahQwJn1oed8yoVhHk3o33_krLxRjN75RT0QzAVMcGJ3CvBhNx-s9Hfn--yLGb2LfMs3JiNVD8ULoLTIuDTor50kNx4kIlrlzEZqD1ZAc_BiuLAY0VRrCRd75YzC5r6dqaDmww4rmJlE1ATErbuZR3X5lW0q3ChDmddx-jq4Jz8lQvt2cW-EaLsmNyx44Xw0RtVSBDOklm2VJWeQquveLMyhSMZ5MNb13ygqYW2fnYa6BpDjElTFf6Ycz6T68YUXyQmxCG_l0pNBuEFfZ8yhoij>&cover_image=true&theme=default&bar_color_cover=false)
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ahsanalikhidri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a) 
 
