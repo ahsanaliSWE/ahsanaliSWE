@@ -17,7 +17,7 @@ I’m always curious to learn something new! Whether it’s about **technology**
 </p>
 
 ## Spotify ##
-<iframe src="https://open.spotify.com/embed/track/3n3Ppam7vgaVa1iaRUc9Lp?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 
 ## 🌐 Socials:
