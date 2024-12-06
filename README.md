@@ -1,3 +1,8 @@
+<!-- Video Banner -->
+<p align="center">
+  <!-- GIF added here -->
+  <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/ahsanbanner.gif" alt="Ahsan Ali GIF" width="600"/>
+</p>
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
