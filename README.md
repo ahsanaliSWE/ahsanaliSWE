@@ -41,13 +41,13 @@ Bringing **IoT** and **Renewable Energy** together to create a smarter, more sus
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanaliswe&show_icons=true&locale=en" alt="ahsanaliswe" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanaliswe&" alt="ahsanaliswe" /></p>
 
- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanaliswe" alt="ahsanaliswe" /></a> </p>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahsanaliSWE&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
