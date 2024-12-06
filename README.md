@@ -59,6 +59,9 @@ Bringing **IoT** and **Renewable Energy** together to create a smarter, more sus
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahsanaliSWE&limit=5&theme=default&combine_all_yearly_contributions=true)
 
+## 🏅 Holopins
+[![An image of @ahsanaliswe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsanaliswe)](https://holopin.io/@ahsanaliswe)
+
 ---
 
 ![snake gif](https://github.com/ahsanaliSWE/ahsanaliSWE/blob/output/github-snake.svg)
