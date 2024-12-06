@@ -51,11 +51,9 @@ Bringing **IoT** and **Renewable Energy** together to create a smarter, more sus
 ![](https://github-contributor-stats.vercel.app/api?username=ahsanaliSWE&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-<div align="center">
-  ![snake gif](https://github.com/ahsanaliSWE/ahsanaliSWE/blob/output/github-snake.svg)
-</div>
+
+![snake gif](https://github.com/ahsanaliSWE/ahsanaliSWE/blob/output/github-snake.svg)
 
 
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=ahsanaliSWE&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
