@@ -3,8 +3,26 @@
   <!-- GIF added here -->
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/ahsan-banner.gif" alt="Ahsan Ali GIF" />
 </p>
-<h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h1 align="center"> 👋,Hello, I'm Ahsan Ali</h1>
+*A Passionate Software Engineer 🚀 | Full-Stack Developer 🛠️ | Tech Enthusiast 💡*
+<h3 align="center"> from Pakistan</h3>
+
+![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Header](https://giphy.com/gifs/ProductDock-it-programming-productdock-xaO6TmgQmKEQ4516sE)
+
+name: Your Name
+role: Software Engineer
+specialties: Full-Stack Development, Mobile Apps, Deep Learning, IoT
+technologies:
+  - Languages: JavaScript, Python, Dart, C++
+  - Frameworks: React, Flutter, Node.js
+  - Tools: Docker, Kubernetes, GitHub Actions
+  - Cloud: AWS, Firebase, Azure
+hobbies:
+  - 🖥️ Coding
+  - 📚 Learning new tech
+  - 🎮 Gaming
+  - 🌍 Exploring the tech community
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanaliswe&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanaliswe" /> </p>
 
