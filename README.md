@@ -17,8 +17,7 @@ I’m always curious to learn something new! Whether it’s about **technology**
 </p>
 
 ## Spotify ##
-<iframe src="https://open.spotify.com/embed/playlist/65aObO8Ft7got1sAeEdYs0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<iframe src="https://open.spotify.com/embed/track/3n3Ppam7vgaVa1iaRUc9Lp?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 ## 🌐 Socials:
