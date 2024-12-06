@@ -12,7 +12,6 @@
 
 
 ## 🔧 About Me
-```yaml
 Name: Ahsan Ali
 Role: Software Engineer
 Specialties: Full-Stack Development, Mobile Apps, Deep Learning, IoT
