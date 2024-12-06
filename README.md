@@ -12,16 +12,16 @@ I’m always curious to learn something new! Whether it’s about **technology**
 "If it works, don't touch it. If it doesn’t work, don’t touch it either... just pray." 🙏
 
 <p align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="45%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="45%" />
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif" alt="Programming GIF" width="45%" />
 </p>
 
 ## 🎧 Spotify
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://open.spotify.com/collection/tracks">
     <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
-   <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green-300x82.png" alt="Spotify Logo" width="100">
+   <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green-300x82.png" alt="Spotify Logo" width="500">
 </div>
 
 
