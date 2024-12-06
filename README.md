@@ -18,7 +18,7 @@ I’m always curious to learn something new! Whether it’s about **technology**
 
 ## 🎧 Spotify Playing
 <div style="display: flex; align-items: center;">
-  <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green-300x82.png" alt="Spotify Logo" width="300">
+  <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green-300x82.png" alt="Spotify Logo" width="350">
  <a href="https://open.spotify.com/collection/tracks">
     <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
