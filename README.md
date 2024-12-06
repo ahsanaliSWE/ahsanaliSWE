@@ -1,23 +1,26 @@
-<!-- Video Banner -->
 <p align="center">
-  <!-- GIF added here -->
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/ahsan-banner.gif" alt="Ahsan Ali GIF" />
 </p>
 <h1 align="center"> 👋,Hello, I'm Ahsan Ali</h1>
 *A Passionate Software Engineer 🚀 | Full-Stack Developer 🛠️ | Tech Enthusiast 💡*
 <h3 align="center"> from Pakistan</h3>
 
-![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Header](https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="45%" />
+  <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif" alt="Programming GIF" width="45%" />
+</p>
 
-name: Your Name
-role: Software Engineer
-specialties: Full-Stack Development, Mobile Apps, Deep Learning, IoT
-technologies:
+
+## 🔧 About Me
+```yaml
+Name: Ahsan Ali
+Role: Software Engineer
+Specialties: Full-Stack Development, Mobile Apps, Deep Learning, IoT
+Technologies:
   - Languages: JavaScript, Python, Dart, C++
   - Frameworks: React, Flutter, Node.js
   - Tools: Docker, Kubernetes, GitHub Actions
-  - Cloud: AWS, Firebase, Azure
+  - Cloud: AWS, Firebase, Azure, GCP
 hobbies:
   - 🖥️ Coding
   - 📚 Learning new tech
