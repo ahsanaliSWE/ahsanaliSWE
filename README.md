@@ -16,8 +16,8 @@ I’m always curious to learn something new! Whether it’s about **technology**
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif" alt="Programming GIF" width="45%" />
 </p>
 
-## 🎧 Spotify
-<div style="display: flex; align-items: center; gap: 20px;">
+## 🎧 Spotify Playing
+<div style="display: flex; align-items: center;">
  <a href="https://open.spotify.com/collection/tracks">
     <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Now Playing">
   </a>
