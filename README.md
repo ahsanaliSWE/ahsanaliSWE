@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/57f7869b-e76e-499b-bb09-084dc948ea07)# 💫 About Me:
+# 💫 About Me:
 <p align="center">
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/ahsan-banner.gif" alt="Ahsan Ali GIF" />
 </p>
@@ -18,40 +18,11 @@ I’m always curious to learn something new! Whether it’s about **technology**
 
 ## 🎧 Spotify  
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)  
-<div style="text-align: center;">
-  <!-- Spotify Logo as SVG -->
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1080" width="200" height="200" style="width: 100px; height: 100px;">
-    <defs>
-      <clipPath id="__lottie_element_2">
-        <rect width="1080" height="1080" x="0" y="0" />
-      </clipPath>
-    </defs>
-    <g clip-path="url(#__lottie_element_2)">
-      <g transform="matrix(0.9830467700958252,0.18335509300231934,-0.18335509300231934,0.9830467700958252,204.50579833984375,50.662567138671875)" opacity="1">
-        <g opacity="1" transform="matrix(1,0,0,1,419.52899169921875,419.5270080566406)">
-          <path fill="rgb(30,199,90)" d="M0,-419.2770080566406 C-231.55599975585938,-419.2770080566406 -419.27899169921875,-231.55799865722656 -419.27899169921875,0.0010000000474974513 C-419.27899169921875,231.5659942626953 -231.55599975585938,419.2770080566406 0,419.2770080566406 C231.56399536132812,419.2770080566406 419.27899169921875,231.5659942626953 419.27899169921875,0.0010000000474974513 C419.27899169921875,-231.55799865722656 231.56399536132812,-419.2770080566406 0,-419.2770080566406z" />
-        </g>
-      </g>
-      <g transform="matrix(0.9837332963943481,0.17959074676036835,-0.17959408462047577,0.9837406873703003,285.35491943359375,561.7986450195312)" opacity="1">
-        <g opacity="1" transform="matrix(1,0,0,1,223.51600646972656,67.33100128173828)">
-          <path fill="rgb(0,0,0)" d="M206.49200439453125,14.675000190734863 C68.6989974975586,-3.3510000705718994 -58.39099884033203,-21.263999938964844 -200.20599365234375,-31.44099998474121 C-212.78700256347656,-27.253000259399414 -223.26600646972656,-14.67199993133545 -219.0709991455078,0.004000000189989805 C-214.8769989013672,12.585000038146973 -218.39100646972656,13.736000061035156 -187.62600708007812,18.868999481201172 C-67.44499969482422,34.316001892089844 55.7400016784668,45.9109992980957 181.33999633789062,58.696998596191406 C208.60899353027344,59.736000061035156 208.59100341796875,62.895999908447266 216.98199462890625,50.314998626708984 C223.26600646972656,37.73500061035156 221.17100524902344,20.968000411987305 206.49200439453125,14.675000190734863z" />
-        </g>
-      </g>
-      <!-- Additional paths truncated for brevity -->
-    </g>
-  </svg>
-  <!-- Spotify Widget -->
-  <div>
-    <a href="https://open.spotify.com/collection/tracks" target="_blank">
-      <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify" />
-    </a>
-  </div>
-  <!-- Attribution -->
-  <p>
-    <a href="https://iconscout.com/lottie-animations/spotify" target="_blank">Spotify</a> by 
-    <a href="https://iconscout.com/contributors/priyanshu-17" target="_blank">Priyanshu Sarmah</a>
-  </p>
-</div>
+## 🎧 Spotify
+
+![Spotify Logo](https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green-300x82.png)
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 
 ## 🌐 Socials:
