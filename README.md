@@ -3,8 +3,6 @@
 </p>
 <h1 align="center"> 👋,Hello, I'm Ahsan Ali</h1>
 *A Passionate Software Engineer 🚀 | Full-Stack Developer 🛠️ | Tech Enthusiast 💡*
-<h3 align="center"> from Pakistan</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="45%" />
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif" alt="Programming GIF" width="45%" />
@@ -12,25 +10,52 @@
 
 
 ## 🔧 About Me
-Name: Ahsan Ali
-Role: Software Engineer
-Specialties: Full-Stack Development, Mobile Apps, Deep Learning, IoT
-Technologies:
-  - Languages: JavaScript, Python, Dart, C++
-  - Frameworks: React, Flutter, Node.js
-  - Tools: Docker, Kubernetes, GitHub Actions
-  - Cloud: AWS, Firebase, Azure, GCP
-hobbies:
-  - 🖥️ Coding
-  - 📚 Learning new tech
-  - 🎮 Gaming
-  - 🌍 Exploring the tech community
+- **Name**: Ahsan Ali  
+- **Role**: Software Engineer  
+- **Specialties**: Full-Stack Development, Mobile Apps, Deep Learning, IoT  
+- **Technologies**:  
+  - **Languages**: JavaScript, Python, Dart, C++  
+  - **Frameworks**: React, Flutter, Node.js  
+  - **Tools**: Docker, Kubernetes, GitHub Actions  
+  - **Cloud**: AWS, Firebase, Azure, GCP  
+- **Hobbies**:  
+  - 🖥️ Coding  
+  - 📚 Learning new tech  
+  - 🎮 Gaming  
+  - 🌍 Exploring the tech community  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanaliswe&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanaliswe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanaliswe" alt="ahsanaliswe" /></a> </p>
 
-- 🔭 I’m currently working on **DentalScan Pro**
+## 🚀 My Projects
+
+### 🦷 Dental Caries Detection App  
+Empowering early dental diagnosis with the power of **Deep Learning**. This app utilizes advanced detection models like YOLOv8 to identify dental caries with precision, aiding early diagnosis for better oral health.  
+<a href="https://github.com/yourusername/DentalScanPro"><img src="https://img.shields.io/badge/-View%20Project-181717?style=for-the-badge&logo=github"></a>
+
+---
+
+### 🏠 Smart Home Automation  
+Bringing **IoT** and **Renewable Energy** together to create a smarter, more sustainable living experience. This project integrates energy monitoring, device automation, and seamless control via a mobile app.  
+<a href="https://github.com/yourusername/SmartHomeAutomation"><img src="https://img.shields.io/badge/-View%20Project-181717?style=for-the-badge&logo=github"></a>
+
+---
+
+### 🌈 Dynamic Elements  
+**🕰️ What Time Is It?**  
+Love exploring dynamic and interactive elements? Stay tuned for updates on projects showcasing real-time interaction and data visualization.
+
+---
+
+## 🔥 My Current Streaks  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+---
+
+## ✍️ Fun Fact About Me  
+I’m always curious to learn something new! Whether it’s about **technology**, **AI advancements**, or simply exploring **gaming strategies**, you’ll always find me chasing my next learning adventure.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
