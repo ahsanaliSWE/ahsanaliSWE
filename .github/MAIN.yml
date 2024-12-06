@@ -1,26 +1,4 @@
-
-
-
-  
-  
-  GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-
-
-
-
 name: Generate Snake
-
-
-
-
-  
-  
-  Controls when the action will run. This action runs every 6 hours.
-
-
-
-
 
 on:
 
@@ -30,29 +8,7 @@ on:
 
     - cron: "0 */6 * * *"
 
-
-
-
-  
-  
-  This command allows us to run the Action automatically from the Actions tab.
-
-
-
-
-
 workflow_dispatch:
-
-
-
-
-  
-  
-  The sequence of runs in this workflow:
-
-
-
-
 
 jobs:
 
@@ -63,10 +19,6 @@ jobs:
     # The type of runner that the job will run on
 
     runs-on: ubuntu-latest
-
-
-
-
 
 # Steps represent a sequence of tasks that will be executed as part of the job
 steps:
