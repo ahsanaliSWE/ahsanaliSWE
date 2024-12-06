@@ -8,7 +8,7 @@
 <h3 align="center"> from Pakistan</h3>
 
 ![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Header](https://giphy.com/gifs/ProductDock-it-programming-productdock-xaO6TmgQmKEQ4516sE)
+![Header](https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif)
 
 name: Your Name
 role: Software Engineer
