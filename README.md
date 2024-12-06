@@ -12,8 +12,8 @@ I’m always curious to learn something new! Whether it’s about **technology**
 "If it works, don't touch it. If it doesn’t work, don’t touch it either... just pray." 🙏
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="45%" />
   <img src="https://github.com/ahsanaliSWE/ahsanaliSWE/blob/main/banner/program.gif" alt="Programming GIF" width="45%" />
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="50%" />
 </p>
 
 ## 🎧 Spotify
