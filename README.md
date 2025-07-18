@@ -45,6 +45,12 @@ Bringing **IoT** and **Renewable Energy** together to create a smarter, more sus
 
 ---
 
+📝 BlogBeat - Dynamic Blogging Platform
+BlogBeat is a full-featured blogging system built with PHP and MySQL, designed for content creators and readers alike. It supports dynamic blog creation, user registration, commenting, blog following, category filtering, post attachments, and admin panel management — all wrapped in a clean Bootstrap-based UI.
+<a href="https://github.com/ahsanaliSWE/BlogBeat"><img src="https://img.shields.io/badge/-View%20Project-181717?style=for-the-badge&logo=github"></a>
+
+---
+
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahsanaliswe&show_icons=true&locale=en" alt="ahsanaliswe" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanaliswe&" alt="ahsanaliswe" /></p>
