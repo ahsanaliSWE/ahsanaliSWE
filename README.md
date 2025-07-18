@@ -35,12 +35,14 @@ I’m always curious to learn something new! Whether it’s about **technology**
 
 ### 🦷 Dental Caries Detection App  
 Empowering early dental diagnosis with the power of **Deep Learning**. This app utilizes advanced detection models like YOLOv8 to identify dental caries with precision, aiding early diagnosis for better oral health.  
+
 <a href="https://github.com/ahsanaliSWE/DentalScanpro"><img src="https://img.shields.io/badge/-View%20Project-181717?style=for-the-badge&logo=github"></a>
 
 ---
 
 ### 🏠 Smart Home Automation  
 Bringing **IoT** and **Renewable Energy** together to create a smarter, more sustainable living experience. This project integrates energy monitoring, device automation, and seamless control via a mobile app.  
+
 <a href="https://github.com/ahsanaliSWE/home_automation"><img src="https://img.shields.io/badge/-View%20Project-181717?style=for-the-badge&logo=github"></a>
 
 ---
